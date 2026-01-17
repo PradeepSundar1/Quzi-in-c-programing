@@ -204,3 +204,8 @@ int main()
     printf("%d / 30\n",mmark+pmark+cmark);
     return 0;
 }
+## OUTPUT
+<img width="1852" height="1062" alt="5" src="https://github.com/user-attachments/assets/6fd568fd-caab-442c-b92c-a75586412fb5" />
+<img width="1834" height="990" alt="6" src="https://github.com/user-attachments/assets/9bb6b95e-ed22-489b-9553-d35095e276fb" />
+<img width="1838" height="383" alt="7" src="https://github.com/user-attachments/assets/3a9bd86c-b0eb-42f9-8f15-91b34e9a6c38" />
+
