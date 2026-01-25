@@ -2,7 +2,7 @@
 I’m currently learning C programming 💻 and built a console-based quiz application. As a beginner 🌱, this project strengthened my understanding of core concepts like variables, arrays, loops, and conditionals 🧠. I focused on learning the logic behind the code and growing step by step 🚀
 
 
-
+```
 #include <stdio.h>
 int main()
 {
@@ -204,6 +204,7 @@ int main()
     printf("%d / 30\n",mmark+pmark+cmark);
     return 0;
 }
+```
 ## OUTPUT
 <img width="1852" height="1062" alt="5" src="https://github.com/user-attachments/assets/6fd568fd-caab-442c-b92c-a75586412fb5" />
 <img width="1834" height="990" alt="6" src="https://github.com/user-attachments/assets/9bb6b95e-ed22-489b-9553-d35095e276fb" />
